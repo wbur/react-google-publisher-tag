@@ -3,7 +3,7 @@
 ## Motivation
 
 I needed to show adsense via google publisher tag in my react isomorphic application.
-Please read carefully (AdSense terms)[https://support.google.com/adsense/answer/48182?hl=en].
+Please read carefully [AdSense terms](https://support.google.com/adsense/answer/48182?hl=en).
 You are using this module on your own risk. I am using it for 2 years without any problem.
 
 ## Install
